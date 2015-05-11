@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+  <device>
+    <name>TCW2</name>
+    <ip>192.168.1.116</ip>
+    <cm_public>public</cm_public>
+    <cm_private>private</cm_private>
+    <schedule>
+      <relay number="1"/>
+      <relay number="2"/>
+      <relay number="3"/>
+      <relay number="4"/>
+      <relay number="5"/>
+      <relay number="6"/>
+      <relay number="7"/>
+      <relay number="8"/>
+    </schedule>
+  </device>
+</devices>
